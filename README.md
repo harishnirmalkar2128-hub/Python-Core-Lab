@@ -66,17 +66,6 @@ Even though the initial plan was 90 days, focusing my full energy on these 39 da
 
 ---
 
-## 👤 About the Author
-
-Hi there! I am **Harish Nirmalkar**, currently pursuing my **MCA (2nd Semester)** at **Rungta International Skills University**. 🎓
-
-I am a passionate tech student who loves solving problems and exploring backend logic, DBMS, and Cloud technologies. I strongly believe that growth comes from consistent efforts every single day.
-
-* **My Learning Motto:** *"Har din ek naya savera hai"* (Every day is a new learning). 🌟
-* **My Approach:** I focus my energy on understanding the core concepts deeply and building a strong foundation without taking unnecessary pressure (*bina faltu ka pressure liye*). 🧠🔥
-
----
-
 ---
 
 ## 👤 About the Author
@@ -98,7 +87,4 @@ Let's connect, share ideas, and grow together! You can reach out to me via:
 * **GitHub Profile:** [harishnirmalkar2128-hub](https://github.com/harishnirmalkar2128-hub) 💻
 
 ---
-
----
-
 Thank you for visiting my repository! Keep learning every day. 🙌
