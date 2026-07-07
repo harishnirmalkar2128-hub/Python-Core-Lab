@@ -64,4 +64,41 @@ Here is the exact day-by-day roadmap of what I practiced and mastered during the
 ## 💡 The Mindset Approach
 Even though the initial plan was 90 days, focusing my full energy on these 39 days helped me grasp the concepts cleanly without taking any unnecessary pressure (*bina faltu ka pressure liye*). Quality of learning always beats the quantity of days! 🧠✨
 
+---
+
+## 👤 About the Author
+
+Hi there! I am **Harish Nirmalkar**, currently pursuing my **MCA (2nd Semester)** at **Rungta International Skills University**. 🎓
+
+I am a passionate tech student who loves solving problems and exploring backend logic, DBMS, and Cloud technologies. I strongly believe that growth comes from consistent efforts every single day.
+
+* **My Learning Motto:** *"Har din ek naya savera hai"* (Every day is a new learning). 🌟
+* **My Approach:** I focus my energy on understanding the core concepts deeply and building a strong foundation without taking unnecessary pressure (*bina faltu ka pressure liye*). 🧠🔥
+
+---
+
+---
+
+## 👤 About the Author
+
+Hi there! I am **Harish Nirmalkar**, currently pursuing my **MCA (2nd Semester)** at **Rungta International Skills University**. 🎓[cite: 1]
+
+I am a passionate tech student who loves solving problems and exploring backend logic, DBMS, and Cloud technologies. I strongly believe that growth comes from consistent efforts every single day.
+
+* **My Learning Motto:** *"Har din ek naya savera hai"* (Every day is a new learning). 🌟[cite: 1]
+* **My Approach:** I focus my energy on understanding the core concepts deeply and building a strong foundation without taking unnecessary pressure (*bina faltu ka pressure liye*). 🧠🔥[cite: 1]
+
+---
+
+## 🤝 Connect With Me
+
+Let's connect, share ideas, and grow together! You can reach out to me via:
+
+* **LinkedIn:** [harish-nirmalkar2128](https://www.linkedin.com/in/harish-nirmalkar2128) 💼
+* **GitHub Profile:** [harishnirmalkar2128-hub](https://github.com/harishnirmalkar2128-hub) 💻
+
+---
+
+---
+
 Thank you for visiting my repository! Keep learning every day. 🙌
